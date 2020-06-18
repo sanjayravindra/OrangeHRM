@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>JBehave-story.OrangeHRM</title>
+<style type="text/css" media="all">
+@import url( "./style/jbehave-core.css" );
+</style>
+</head>
+<body>
+<div class="story">
+<h1>OrangeHRM Project</h1>
+<div class="path">JBehave-story/OrangeHRM.story</div>
+<div class="beforeStorySteps">
+</div>
+<div class="scenario">
+<h2>Scenario: Verify the user is able to login with valid credentials</h2>
+<div class="step successful">Given user should navigate to login page</div>
+<div class="step successful">When user enters valid credentials</div>
+<div class="step successful">Then user should redirect to dashboard</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Verify the user is able to add an employee</h2>
+<div class="step successful">Given user should navigate to add employee page</div>
+<div class="step successful">And user should able to add an employee</div>
+<div class="step successful">And user should able to add employee without middle name</div>
+<div class="step successful">And user should able to add employee without image</div>
+<div class="step successful">Then user should able to add employee without creating login details</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Verify the user is able to add personal details of an employee</h2>
+<div class="step successful">Given user should navigate to personal details page</div>
+<div class="step successful">Then user should able to add personal details of an employee</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Verify the user is able to search and edit an employee</h2>
+<div class="step successful">Given user should navigate to employee information page</div>
+<div class="step successful">And user should able to search an employee with valid employee name</div>
+<div class="step successful">And user should able to search an employee from suggestion list</div>
+<div class="step successful">And user should able to search an employee with partial name and valid employee id</div>
+<div class="step successful">And user should able to search an employee with valid employee id</div>
+<div class="step successful">Then user should able to search an employee with valid employee id and name</div>
+</div>
+<div class="scenario">
+<h2>Scenario: verify the user is able to logout</h2>
+<div class="step successful">Given user should able to logout
+then user should able close the broswer</div>
+</div>
+<div class="afterStorySteps">
+</div>
+</div>
+
+</body>
+<!--  SyntaxHighlighter resources:  should be included at end of body -->
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shCore.css"/>
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shThemeRDark.css"/>
+<script language="javascript" src="./js/sh-3.0.83/shCore.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushBash.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushCss.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushDiff.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushGroovy.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJava.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJScript.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPlain.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPython.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushRuby.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushScala.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushXml.js"></script>
+<script language="javascript" src="./js/shBrushBdd.js"></script>
+<script type="text/javascript">
+    SyntaxHighlighter.defaults['gutter'] = false;
+    SyntaxHighlighter.defaults['toolbar'] = false;    
+    SyntaxHighlighter.all();
+</script>
+</html>

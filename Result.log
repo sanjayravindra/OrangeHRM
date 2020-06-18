@@ -1,0 +1,56 @@
+2020-02-21 19:27:05 INFO  Employee:49 - browser launched
+2020-02-21 19:27:16 INFO  Employee:54 - Login page
+2020-02-21 19:27:21 INFO  Employee:64 - Credentials are entered
+2020-02-21 19:27:33 INFO  Employee:73 - Login Successful
+2020-02-21 19:27:38 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:27:49 INFO  Employee:121 - Add Employee page
+2020-02-21 19:28:05 INFO  Employee:174 - Redirect to personal details page
+2020-02-21 19:28:05 INFO  Employee:182 - Employee added page
+2020-02-21 19:28:09 INFO  Employee:236 - Validation passed
+2020-02-21 19:28:12 INFO  Employee:121 - Add Employee page
+2020-02-21 19:28:27 INFO  Employee:174 - Redirect to personal details page
+2020-02-21 19:28:27 INFO  Employee:182 - Employee added page
+2020-02-21 19:28:28 INFO  Employee:236 - Validation passed
+2020-02-21 19:28:31 INFO  Employee:121 - Add Employee page
+2020-02-21 19:28:37 FATAL Employee:167 - failed employee already exists
+2020-02-21 19:28:48 FATAL Employee:189 - Adding Employee failed
+2020-02-21 19:28:48 FATAL Employee:243 - Validation failed-expected [Alex] but found [Tyler]
+2020-02-21 19:28:51 INFO  Employee:121 - Add Employee page
+2020-02-21 19:29:07 INFO  Employee:174 - Redirect to personal details page
+2020-02-21 19:29:08 INFO  Employee:182 - Employee added page
+2020-02-21 19:29:08 INFO  Employee:236 - Validation passed
+2020-02-21 19:29:09 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:29:12 INFO  Employee:121 - Add Employee page
+2020-02-21 19:29:27 INFO  Employee:174 - Redirect to personal details page
+2020-02-21 19:29:27 INFO  Employee:182 - Employee added page
+2020-02-21 19:29:27 INFO  Employee:257 - textbox are enable to edit
+2020-02-21 19:29:31 INFO  Employee:301 - Saved Successfully
+2020-02-21 19:29:42 INFO  Employee:218 - Validation passed
+2020-02-21 19:29:43 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:29:43 INFO  Employee:345 - Redirect to search page
+2020-02-21 19:29:49 INFO  Employee:373 - Employee found
+2020-02-21 19:29:50 INFO  Employee:257 - textbox are enable to edit
+2020-02-21 19:30:02 FATAL Employee:309 - failed
+2020-02-21 19:30:03 FATAL Employee:390 - Validation failed-expected [null] but found [645]
+2020-02-21 19:30:04 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:30:05 INFO  Employee:345 - Redirect to search page
+2020-02-21 19:30:11 INFO  Employee:373 - Employee found
+2020-02-21 19:30:12 INFO  Employee:257 - textbox are enable to edit
+2020-02-21 19:30:15 INFO  Employee:301 - Saved Successfully
+2020-02-21 19:30:26 INFO  Employee:383 - Validation passed
+2020-02-21 19:30:27 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:30:28 INFO  Employee:345 - Redirect to search page
+2020-02-21 19:30:43 FATAL Employee:397 - No Record found
+2020-02-21 19:30:44 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:30:45 INFO  Employee:345 - Redirect to search page
+2020-02-21 19:30:50 INFO  Employee:373 - Employee found
+2020-02-21 19:30:52 INFO  Employee:257 - textbox are enable to edit
+2020-02-21 19:31:03 FATAL Employee:309 - failed
+2020-02-21 19:31:04 FATAL Employee:390 - Validation failed-expected [null] but found [456]
+2020-02-21 19:31:05 INFO  Employee:92 - navigated to personal information page
+2020-02-21 19:31:06 INFO  Employee:345 - Redirect to search page
+2020-02-21 19:31:11 INFO  Employee:373 - Employee found
+2020-02-21 19:31:12 INFO  Employee:257 - textbox are enable to edit
+2020-02-21 19:31:16 INFO  Employee:301 - Saved Successfully
+2020-02-21 19:31:27 INFO  Employee:383 - Validation passed
+2020-02-21 19:31:28 INFO  Employee:422 - logout sucessful

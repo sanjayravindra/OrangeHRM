@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Feb 21 19:31:31 IST 2020
+JBehave-story/OrangeHRM.story=300000
+threads=1
+total=300000
+threadAverage=300000
